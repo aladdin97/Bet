@@ -4,6 +4,8 @@ stake=[]
 chance=[]
 multiplier=[]
 
+print("Press Enter to Stop")
+print()
 val=input("Enter decimal odds:")
 
 while val!="":
